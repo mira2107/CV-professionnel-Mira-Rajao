@@ -5,7 +5,8 @@ body{
 }
 .type{
    display: grep;
-   max-width:1000px;
+   max-width:100px;
+   height: 20px;
    align-content: center;
    margin:auto;
    box-shadow:0 0 10px rgba(0,0,0,0.1);
